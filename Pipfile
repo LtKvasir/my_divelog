@@ -9,6 +9,10 @@ verify_ssl = true
 django = "*"
 gunicorn = "*"
 django-heroku = "*"
+decouple = "*"
+dj-database-url = "*"
+whitenoise = "*"
+requests = "*"
 
 
 [requires]
